@@ -2,7 +2,7 @@
   "name": "ComCiergeVideo",
   "version": "0.0.1",
   "summary": "WebRTC video calling for the ComCierge suite",
-  "homepage": "https://github.com/apple5566/CAIStatusBar.git",
+  "homepage": "https://google.com",
   "license": "MIT",
   "authors": {
     "justin": "justinkgibbons@gmail.com"
@@ -11,10 +11,10 @@
     "ios": "13.0"
   },
   "source": {
-    "git": "https://github.com/apple5566/CAIStatusBar.git",
+    "git": "https://github.com/justinkgibbons89/VTest.git",
     "tag": "0.0.1"
   },
-  "source_files": "CAIStatusBar/**/*.{h,m}",
-  "resources": "CAIStatusBar/CAIStatusBar.bundle",
+  "source_files": "ComCiergeVideo/**/*.{h,m}",
+  "resources": "ComCiergeVideo/CAIStatusBar.bundle",
   "requires_arc": true
 }
